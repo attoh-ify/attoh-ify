@@ -14,5 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="[https://iconduck.com/icons/27728/node-js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
-)" alt="node-js" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node-js" width="40" height="40"/> </a> </p>
