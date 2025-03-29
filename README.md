@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🌱 I’m currently learning **web design**
+- 🌱 I’m a node js Express **web design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/attoh-ify](https://github.com/attoh-ify)
 
@@ -14,4 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" alt="node-js" width="40" height="40"/> </a> </p>
